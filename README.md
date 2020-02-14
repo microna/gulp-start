@@ -1,2 +1,7 @@
 # gulp-start
-includes:
+includes: sass,
+          browserSync,
+          slick-slider,
+          magnific-popup,
+          autoprifixer
+
